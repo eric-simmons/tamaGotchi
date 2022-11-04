@@ -3,10 +3,8 @@ import User from "./lib/User.js"
 
 const init = async () => {
     const answers = await promptNames()
-    console.log(answers)
-    const user = new User(answers.username, answer.age, )
+    const user = new User(answers.username, answers.age, answers.location )
     console.log(user)
-
 }
 
 
