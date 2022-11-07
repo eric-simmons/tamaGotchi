@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/eric-simmons/tamaGotchi#readme",
   "dependencies": {
-    "inquirer": "^9.1.4"
+    "inquirer": "^9.1.4",
+    "inquirer-tree-prompt": "^1.1.2"
   }
 }
